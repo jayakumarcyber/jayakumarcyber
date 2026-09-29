@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,35:1d4ed8,70:7c3aed,100:ec4899&height=180&section=header&text=JAYAKUMAR%20M&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CYBER%20SECURITY%20%E2%80%A2%20JAVA%20DEVELOPER%20%E2%80%A2%20AI%20%2F%20ML%20%26%20RAG&descAlignY=58&descSize=14" width="100%"/>
+
 # 🛡️ JAYAKUMAR M
 
 ### Cyber Security Student &nbsp;•&nbsp; Java Developer &nbsp;•&nbsp; AI / ML & RAG Enthusiast
