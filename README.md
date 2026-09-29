@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0e27,35:1d4ed8,70:7c3aed,100:ec4899&amp;height=180&amp;section=header&amp;text=JAYAKUMAR%20M&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=CYBER%20SECURITY%20%E2%80%A2%20JAVA%20DEVELOPER%20%E2%80%A2%20AI%20%2F%20ML%20%26%20RAG&amp;descAlignY=58&amp;descSize=14" width="100%"/>
+<img src="./assets/github-banner.svg" width="100%" alt="Jayakumar M — Cyber Security, Java Developer, AI/ML &amp; RAG"/>
+
+</div>
+
+<div align="center">
 
 # 🛡️ JAYAKUMAR M
 
