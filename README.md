@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,35:1d4ed8,70:7c3aed,100:ec4899&height=180&section=header&text=JAYAKUMAR%20M&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CYBER%20SECURITY%20%E2%80%A2%20JAVA%20DEVELOPER%20%E2%80%A2%20AI%20%2F%20ML%20%26%20RAG&descAlignY=58&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0e27,35:1d4ed8,70:7c3aed,100:ec4899&amp;height=180&amp;section=header&amp;text=JAYAKUMAR%20M&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=CYBER%20SECURITY%20%E2%80%A2%20JAVA%20DEVELOPER%20%E2%80%A2%20AI%20%2F%20ML%20%26%20RAG&amp;descAlignY=58&amp;descSize=14" width="100%"/>
 
 # 🛡️ JAYAKUMAR M
 
-### Cyber Security Student &nbsp;•&nbsp; Java Developer &nbsp;•&nbsp; AI / ML & RAG Enthusiast
+### Cyber Security Student &nbsp;•&nbsp; Java Developer &nbsp;•&nbsp; AI / ML &amp; RAG Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1400&color=FF2222&center=true&vCenter=true&width=680&lines=Cyber+Security+Student;Java+Developer;AI+%2F+ML+%26+RAG+Enthusiast;Building+Practical+Security+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=16&amp;pause=1400&amp;color=FF2222&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Cyber+Security+Student;Java+Developer;AI+%2F+ML+%26+RAG+Enthusiast;Building+Practical+Security+Solutions)](https://git.io/typing-svg)
 
 <br/>
 
@@ -82,7 +82,7 @@ Machine learning-driven threat detection pipeline built to monitor and flag pote
 <td colspan="2" valign="top">
 
 ### 📊 Cybersecurity Incident Insights
-**Security Analytics & Data Visualization**
+**Security Analytics &amp; Data Visualization**
 
 Interactive security analytics platform focused on ingesting, analyzing, and visualizing cybersecurity incident data to surface meaningful operational patterns and threat intelligence insights.
 
@@ -146,9 +146,9 @@ Interactive security analytics platform focused on ingesting, analyzing, and vis
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jayakumarcyber&show_icons=true&theme=github_dark&title_color=ff3333&icon_color=ff3333&border_color=2e2e2e&hide_border=false&count_private=true" height="150" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jayakumarcyber&amp;show_icons=true&amp;theme=github_dark&amp;title_color=ff3333&amp;icon_color=ff3333&amp;border_color=2e2e2e&amp;hide_border=false&amp;count_private=true" height="150" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://streak-stats.demolab.com/?user=jayakumarcyber&theme=dark&ring=ff3333&fire=ff3333&currStreakLabel=ff3333&sideLabels=ffffff&border=2e2e2e" height="150" alt="Contribution Streak"/>
+<img src="https://streak-stats.demolab.com/?user=jayakumarcyber&amp;theme=dark&amp;ring=ff3333&amp;fire=ff3333&amp;currStreakLabel=ff3333&amp;sideLabels=ffffff&amp;border=2e2e2e" height="150" alt="Contribution Streak"/>
 
 </div>
 
@@ -158,7 +158,7 @@ Interactive security analytics platform focused on ingesting, analyzing, and vis
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayakumarcyber&layout=compact&theme=github_dark&title_color=ff3333&border_color=2e2e2e&hide_border=false&langs_count=6" height="150" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayakumarcyber&amp;layout=compact&amp;theme=github_dark&amp;title_color=ff3333&amp;border_color=2e2e2e&amp;hide_border=false&amp;langs_count=6" height="150" alt="Top Languages"/>
 
 </div>
 
@@ -205,7 +205,7 @@ Shree Venkateshwara Hi-Tech Engineering College, Gobi, Erode, Tamil Nadu
 
 ## 💼 Internship
 
-**Object Automation System Solutions (P) Ltd.** &nbsp;|&nbsp; *Domain: Generative AI & Software Development*
+**Object Automation System Solutions (P) Ltd.** &nbsp;|&nbsp; *Domain: Generative AI &amp; Software Development*
 
 | Area | Exposure Details |
 |:---|:---|
@@ -217,7 +217,7 @@ Shree Venkateshwara Hi-Tech Engineering College, Gobi, Erode, Tamil Nadu
 
 ---
 
-## 🏆 Hackathons & Events
+## 🏆 Hackathons &amp; Events
 
 <table width="100%">
 <tr>
@@ -245,19 +245,19 @@ Shree Venkateshwara Hi-Tech Engineering College, Gobi, Erode, Tamil Nadu
 <td width="25%" align="center">
 
 ### 🚩 Hackathons
-Collaborative problem-solving & rapid prototyping under pressure
+Collaborative problem-solving &amp; rapid prototyping under pressure
 
 </td>
 <td width="25%" align="center">
 
 ### 🔍 Security Analysis
-Hands-on network analysis, packet inspection & defense experimentation
+Hands-on network analysis, packet inspection &amp; defense experimentation
 
 </td>
 <td width="25%" align="center">
 
 ### 📚 Tech Learning
-Exploring emerging AI architectures, LLM defenses & system design
+Exploring emerging AI architectures, LLM defenses &amp; system design
 
 </td>
 <td width="25%" align="center">
