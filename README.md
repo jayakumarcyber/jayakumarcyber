@@ -1,14 +1,8 @@
 <div align="center">
-
 <img src="./assets/github-banner.svg" width="100%" alt="Jayakumar M — Cyber Security, Java Developer, AI/ML &amp; RAG"/>
-
 </div>
 
 <div align="center">
-
-# 🛡️ JAYAKUMAR M
-
-### Cyber Security Student &nbsp;•&nbsp; Java Developer &nbsp;•&nbsp; AI / ML &amp; RAG Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=16&amp;pause=1400&amp;color=FF2222&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Cyber+Security+Student;Java+Developer;AI+%2F+ML+%26+RAG+Enthusiast;Building+Practical+Security+Solutions)](https://git.io/typing-svg)
 
